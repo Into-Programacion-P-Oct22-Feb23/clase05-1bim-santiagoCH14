@@ -7,6 +7,7 @@ package paquete1;
 
 import java.util.Locale;
 import java.util.Scanner;
+//import java.util.Scanner;
 
 /**
  *
